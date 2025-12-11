@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1765463701 source:c:\users\hp\desktop\rim_el_kili_projet_jpeg\ccompression.cpp
+	"cCompression.h"
+	<cmath>
+	<fstream>
+	<iostream>
+	<cstring>
+
+1765463701 c:\users\hp\desktop\rim_el_kili_projet_jpeg\ccompression.h
+	<vector>
+
+1765463701 source:c:\users\hp\desktop\rim_el_kili_projet_jpeg\cdecompression.cpp
+	"cDecompression.h"
+	<fstream>
+	<iostream>
+	<cmath>
+
+1765463701 c:\users\hp\desktop\rim_el_kili_projet_jpeg\cdecompression.h
+	"cCompression.h"
+
+1765463701 source:c:\users\hp\desktop\rim_el_kili_projet_jpeg\chuffman.cpp
+	"cHuffman.h"
+	<iostream>
+	<iomanip>
+	<algorithm>
+
+1765463701 c:\users\hp\desktop\rim_el_kili_projet_jpeg\chuffman.h
+	<queue>
+	<vector>
+	<string>
+	<map>
+
