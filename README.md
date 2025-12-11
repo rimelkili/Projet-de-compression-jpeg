@@ -1,7 +1,7 @@
- Aperçu du Projet
+# Aperçu du Projet
 Ce projet implémente un algorithme de compression JPEG à partir de zéro, démontrant les étapes clés du standard JPEG incluant la transformation DCT, la quantification et l'encodage Huffman. L'objectif est de comprendre et visualiser le fonctionnement de la compression JPEG au niveau fondamental.
 
- Fonctionnalités
+# Fonctionnalités
 Compression avec perte suivant le standard JPEG
 
 Visualisation étape par étape du pipeline de compression
