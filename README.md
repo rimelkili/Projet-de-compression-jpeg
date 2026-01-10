@@ -1,13 +1,14 @@
-# Aperçu du Projet
-Ce projet implémente un algorithme de compression JPEG à partir de zéro, démontrant les étapes clés du standard JPEG incluant la transformation DCT, la quantification et l'encodage Huffman. L'objectif est de comprendre et visualiser le fonctionnement de la compression JPEG au niveau fondamental.
+# Project Overview
+This project implements a JPEG compression algorithm from scratch, showcasing the key stages of the JPEG standard, including Discrete Cosine Transform (DCT), quantization, and Huffman encoding.
+The goal is to understand and visualize how JPEG compression works at a fundamental level.
 
-# Fonctionnalités
-Compression avec perte suivant le standard JPEG
+# Features
+Lossy compression following the JPEG standard
 
-Visualisation étape par étape du pipeline de compression
+Step-by-step visualization of the compression pipeline
 
-Réglages de qualité configurables (ratio de compression ajustable)
+Configurable quality settings (adjustable compression ratio)
 
-Outils de comparaison pour évaluer les performances de compression
+Comparison tools to evaluate compression performance
 
-Support des formats d'image courants (PNG, BMP, JPG)
+Support for common image formats (PNG, BMP, JPG)
